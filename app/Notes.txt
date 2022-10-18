@@ -1,0 +1,16 @@
+Project : connect their wallet, click mint, and receive an NFT from our collection in their wallet. Simple enough!
+
+Step 01: Connect Wallet Code
+Step 02: Solana CLI and Metaplex CLI 
+
+Solana CLI : The Solana CLI will allow us to deploy to devnet, an actual blockchain run by real validators.
+Mataplex CLI : The Metaplex CLI will allow us to interact with Metaplex's deployed NFT contracts. Using their smart-contracts-as-a-service
+
+
+ 1) create our own candy machine 
+ 2) upload our NFTs to our candy machine
+ 3) allow users to actually hit our candy machine to mint an NFT.
+
+
+To begin interacting with the Candy Machine CLI. Go ahead and run these commands and install anything that isn't there!
+
